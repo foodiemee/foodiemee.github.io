@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Object Oriented Programming
+title: "Python Object Oriented Programming"
 date: 2019-09-19 22:07:39 -0700
 category: Python_Programming
 img: /static/IMG/python_snake.jpg
