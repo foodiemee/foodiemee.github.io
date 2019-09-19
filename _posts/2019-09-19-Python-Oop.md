@@ -16,7 +16,7 @@ tags:
 As we all know Python is Object Oriented Programming language. But you won't believe we are using Python OOP from our first program itself. For example if you try following snippet you will get what I am saying.
 
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 x = 2
 print(type(x))
 </code>
@@ -32,7 +32,7 @@ It will give you following result: ```<class 'int'>```
 ## How do we create simple class?
 Using class keyword we can create new class. The syntax of class is given below:
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 class class_name:
 	method_definitions
 </code>
@@ -40,7 +40,7 @@ class class_name:
 
 Let us create our own class,
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 class Employee:
 	pass
 </code>
@@ -50,7 +50,7 @@ class Employee:
  
 Let us create a new objects of our class Employee:
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 employee1 = Employee()
 employee2 = Employee()
 </code>
@@ -58,7 +58,7 @@ employee2 = Employee()
 
 Let us check whether we are created instances of class Employee successfully:
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 print(type(employee1))
 </code>
 </pre>
@@ -68,7 +68,7 @@ This will give you something like ```<class '__main__.Employee'>```. Then it is 
 Now it is the time to create instance variables. Instance variables are used for attach data to individual objects. Using these instance variable we can attach data field directly to at runtime. Instances are written outside class.
 
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 employee1.firstName = 'Arun'
 employee1.lastName = 'Soman'
 employee1.email = employee1.firstName + employee1.lastName+'@company.com'
@@ -99,7 +99,7 @@ Python supports following types of methods
 We will discuss about all of the above methods in upcoming blog posts. Let us create a regular method by extending our previous program.
 
 <pre class="line-numbers">
-<code class="python">
+<code class="language-python">
 class Employee:
 	def fullName(firstName, lastName):
 		return firstName + ' '+  lastName
