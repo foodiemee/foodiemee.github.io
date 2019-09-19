@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Horizontal scroll box"
-date:   2019-09-19 22:07:39 -0700
+title: Python Object Oriented Programming
+date: 2019-09-19 22:07:39 -0700
 category: Python_Programming
 img: /static/IMG/python_snake.jpg
 color: green
@@ -19,15 +19,14 @@ As we all know Python is Object Oriented Programming language. But you won't bel
 <code class="python">
 x = 2
 print(type(x))
-</code>
 </pre>
+</code>
 
-It will give you following result:
-```<class 'int'>```
+It will give you following result: ```<class 'int'>```
 
 **You can see this in any data item like list, tuple, dictionary sets ...etc**. That is each datatype is belongs to a class. For example **append** is a method within the class named list. We will discuss what is method in this post later.
 
-{% include MyNote.html note_type="Success" span_note="Important" text="In Python, all data items are objects, and each object is an instance of a class. The importance of classes is: by defining your own class, you define a fundamental new data type." %}
+{% include MyNote.html note_type="Success" span_note="Important:" text="In Python, all data items are objects, and each object is an instance of a class. The importance of classes is: by defining your own class, you define a fundamental new data type." %}
 
 
 ## How do we create simple class?
