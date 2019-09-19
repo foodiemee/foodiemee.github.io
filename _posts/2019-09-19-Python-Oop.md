@@ -27,8 +27,8 @@ It will give you following result:
 
 **You can see this in any data item like list, tuple, dictionary sets ...etc**. That is each datatype is belongs to a class. For example **append** is a method within the class named list. We will discuss what is method in this post later.
 
-{% include MyNote.html note_type="Success" span_note="Important" text="In Python, all data items are objects, and each object is an instance of a class. 
-The importance of classes is: by defining your own class, you define a fundamental new data type." %}
+{% include MyNote.html note_type="Success" span_note="Important" text="In Python, all data items are objects, and each object is an instance of a class. The importance of classes is: by defining your own class, you define a fundamental new data type." %}
+
 
 ## How do we create simple class?
 Using class keyword we can create new class. The syntax of class is given below:
@@ -47,12 +47,8 @@ class Employee:
 </code>
 </pre>
 
-{% include MyNote.html note_type="Info" span_note="Info" text="The keyword pass is a kind of placeholder. It says, “There’s nothing more 
-to do here for now; I’ll come back and add things later.” Or, you might just use 
-it as a permanent no-op (no operation). Occasionally this is needed because 
-Python has no statement terminator; therefore, it has no way to specify a 
-blank statement other than **pass**." %}
-
+{% include MyNote.html note_type="Info" span_note="Info" text="The keyword pass is a kind of placeholder. It says, “There’s nothing more to do here for now; I’ll come back and add things later.” Or, you might just use it as a permanent no-op (no operation). Occasionally this is needed because Python has no statement terminator; therefore, it has no way to specify a blank statement other than <b>pass</b>." %}
+ 
 Let us create a new objects of our class Employee:
 <pre class="line-numbers">
 <code class="python">
@@ -94,8 +90,7 @@ Writing a method is how we give objects of a class the ability to respond to
 messages; another way of saying this is that methods give objects of a class 
 behavior.
 
- {% include MyNote.html note_type="info" span_note="Info: " text="In Python, as elsewhere, methods are functions defined inside class definitions—
-even though they may be called through an object (an “instance method”)." %}
+{% include MyNote.html note_type="info" span_note="Info: " text="In Python, as elsewhere, methods are functions defined inside class definitions-even though they may be called through an object (an “instance method”)." %}
 
 Python supports following types of methods
 1. Regular Methods
