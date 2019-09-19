@@ -17,10 +17,12 @@ As we all know Python is Object Oriented Programming language. But you won't bel
 
 <pre class="line-numbers">
 <code class="python">
+{% raw %}
 x = 2
 print(type(x))
-</pre>
+{% endraw %}
 </code>
+</pre>
 
 It will give you following result: ```<class 'int'>```
 
