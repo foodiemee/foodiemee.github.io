@@ -1,20 +1,12 @@
 ---
-id: 9
+
 title: 8 best Trend Topics For Tech Bloggers To Write On
 date: 2019-09-13T14:11:00+00:00
-author: admin
 layout: post
-permalink: /2019/09/13/8-best-trend-topics-for-tech-bloggers-to-write-on/
-blogger_blog:
-  - www.thebusinessesonline.xyz
-blogger_author:
-  - Alan
-blogger_permalink:
-  - /2019/09/8-best-trend-topics-for-tech-bloggers.html
-blogger_internal:
-  - /feeds/8716008037676200332/posts/default/9066850943957442110
+theme_color:"#9c27b0"
+tags:Jekyll
 image: /static/IMG/tech.png
-categories:
+category:
   - NEWS
 ---
 <div dir="ltr" style="text-align: left;">
