@@ -13,7 +13,7 @@ blogger_permalink:
   - /2019/09/8-best-trend-topics-for-tech-bloggers.html
 blogger_internal:
   - /feeds/8716008037676200332/posts/default/9066850943957442110
-image: /wp-content/uploads/2019/09/tech.png
+image: /static/IMG/tech.png
 categories:
   - NEWS
 ---
