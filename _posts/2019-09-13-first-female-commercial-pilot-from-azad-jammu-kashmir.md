@@ -2,18 +2,10 @@
 id: 21
 title: 'First Female Commercial Pilot from Azad Jammu &#038; Kashmir'
 date: 2019-09-13T13:37:00+00:00
-author: admin
 layout: post
-permalink: /2019/09/13/first-female-commercial-pilot-from-azad-jammu-kashmir/
-blogger_blog:
-  - www.thebusinessesonline.xyz
-blogger_author:
-  - Alan
-blogger_permalink:
-  - /2019/09/first-female-commercial-pilot-from-azad.html
-blogger_internal:
-  - /feeds/8716008037676200332/posts/default/1404205277602757432
-image: /wp-content/uploads/2019/09/f.png
+image: theme_color:"#9c27b0"
+tags:Jekyll
+image: /static/IMG/f.png
 categories:
   - TECHNOLOGY
 ---
