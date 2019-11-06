@@ -14,10 +14,9 @@
   link: http://github.com/foodiemee
   icon: fab fa-github
   
-menu: Resume
-  link: http://chipprogrammers.github.io/online-cv
-  icon: fa fa-paper-plane
-
+- menu: Privacy Policy
+  link: http://foodiemee.github.io/privacy-policy-2
+  icon: fas fa-pencil-alt
 - menu: Sitemap
   link: https://foodiemee.github.io/sitemap.xml
   icon: fas fa-rss
