@@ -19,7 +19,7 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-    <a href="http://thebusinessesonline.xyz/wp-content/uploads/2019/09/tech-2.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="464" data-original-width="668" height="444" src="http://thebusinessesonline.xyz/wp-content/uploads/2019/09/tech-2-300x208.png" width="640" /></a>
+    <a href="/static/IMG/tech-2.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="464" data-original-width="668" height="444" src="http://thebusinessesonline.xyz/wp-content/uploads/2019/09/tech-2-300x208.png" width="640" /></a>
   </div>
   
   <p>
