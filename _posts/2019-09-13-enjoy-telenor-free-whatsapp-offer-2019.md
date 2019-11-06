@@ -1,5 +1,4 @@
 ---
-
 title: Enjoy Telenor Free WhatsApp Offer 2019
 date: 2019-09-13T13:42:00+00:00
 layout: post
@@ -9,10 +8,7 @@ image: /static/IMG/tech-4.png
 categories:
   - NEWS
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
- 
-  </div>
+
   
   <p>
     Uplifting news for Telenor clients. Presently they can appreciate free WhatsApp with Telenor. The Telenor free WhatsApp offers encouraging you for boundless informing, photograph and video imparting to your loved ones.
