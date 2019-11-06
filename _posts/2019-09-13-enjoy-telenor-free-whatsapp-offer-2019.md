@@ -1,25 +1,17 @@
 ---
-id: 19
+
 title: Enjoy Telenor Free WhatsApp Offer 2019
 date: 2019-09-13T13:42:00+00:00
-author: admin
 layout: post
-permalink: /2019/09/13/enjoy-telenor-free-whatsapp-offer-2019/
-blogger_blog:
-  - www.thebusinessesonline.xyz
-blogger_author:
-  - Alan
-blogger_permalink:
-  - /2019/09/enjoy-telenor-free-whatsapp-offer-2019.html
-blogger_internal:
-  - /feeds/8716008037676200332/posts/default/3904513523538077157
-image: /wp-content/uploads/2019/09/tech-4.png
+theme_color:"#9c27b0"
+tags:Jekyll
+image: /static/IMG/tech-4.png
 categories:
   - NEWS
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-    <a href="http://thebusinessesonline.xyz/wp-content/uploads/2019/09/tech-4.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="428" data-original-width="732" height="374" src="http://thebusinessesonline.xyz/wp-content/uploads/2019/09/tech-4-300x175.png" width="640" /></a>
+ 
   </div>
   
   <p>
