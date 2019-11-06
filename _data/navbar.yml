@@ -1,17 +1,17 @@
 - menu: Home
-  link: http://chipprogrammers.github.io
+  link: http://foodiemee.github.io
   icon: fas fa-home
  
 - menu: Blog
-  link: https://chipprogrammers.github.io/blog
+  link: https://foodiemee.github.io/blog
   icon: fas fa-pencil-alt
 
 - menu: Docs
-  link: https://chipprogrammers.github.io/Documentation
+  link: https://foodiemee.github.io/Documentation
   icon: fas fa-file
   
 - menu: Github
-  link: http://github.com/chipprogrammers
+  link: http://github.com/foodiemee
   icon: fab fa-github
   
 - menu: Resume
@@ -19,5 +19,5 @@
   icon: fa fa-paper-plane
 
 - menu: Sitemap
-  link: https://chipprogrammers.github.io/sitemap.xml
+  link: https://foodiemee.github.io/sitemap.xml
   icon: fas fa-rss
